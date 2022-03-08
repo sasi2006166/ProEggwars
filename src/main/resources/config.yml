@@ -1,0 +1,8 @@
+ProEggwars:
+  join:
+    custom_join_message: true
+    first_join_message: true
+  quit:
+    custom_quit_message: true
+  messages:
+    reload_message: true

@@ -1,0 +1,7 @@
+MESSAGES:
+  join:
+    join_message: "&b%player% &7joined the lobby!"
+    first_join_message: "&7Say welcome to &b%player%&7!"
+  quit:
+    quit_message: "&b%player% &7left the lobby!"
+  reload_message: "&7Configuration has been &areloaded&7!"

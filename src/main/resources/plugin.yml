@@ -1,0 +1,8 @@
+name: ProEggwars
+version: '${project.version}'
+main: me.candiesjar.proeggwars.ProEggwars
+api-version: 1.18
+prefix: ProEggwars
+authors: [ CandiesJar ]
+description: Pro eggwars for sure
+website: github.com/sasi2006166
